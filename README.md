@@ -1,2 +1,3 @@
 # Tienda2
+El proyecto tienda estaria en la otra Branch la master debido a que me daba probelemas con la rama principal por otro lado se tuvo que crear otro repositorio porque el principal me estaba dando errores y estuve semanas sin la computadora para hacer las cosas en clase y me tuve que poner al dia por mi cuenta y hacer un commit despues de varias semanas, me disculpo por eso, en la entrega del campus adjunte los links de los 2 repositorios
 Este es el segungo repositorio del proyecto tienda ya creado, por errores que tuve con mi equipo hace semanas ahora me presenta un error en el cual no puedo hacer push al repositorio ya creado
